@@ -1,4 +1,4 @@
-# Lato Webfont
+# Roboto Mono Webfont
 This is a *NPM* repository for the [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) web font.
 
 ## Installation
