@@ -1,6 +1,6 @@
 {
   "name": "roboto-mono-webfont",
-  "version": "2.0.985",
+  "version": "2.0.986",
   "description": "NPM package for the Roboto Mono font",
   "main": "roboto-mono.css",
   "repository": {
@@ -15,7 +15,7 @@
     "css"
   ],
   "author": "Christian Robertson",
-  "license": "MIT",
+  "license": "MIT AND Apache-2.0",
   "bugs": {
     "url": "https://github.com/Dilatorily/roboto-mono/issues"
   },
